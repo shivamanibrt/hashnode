@@ -65,7 +65,7 @@ The API handler logic is implemented in the `fetchHelper.js` file under the `Api
 Let's start by working on the main `App` component. Open the `src/App.js` file and replace its contents with the following code:
 
 ```javascript
-jsxCopy codeimport React from "react";
+import React from "react";
 import { Home } from "./Components/Home";
 import { SearchPage } from "./Components/SearchPage";
 import { About } from "./Components/About";
