@@ -93,9 +93,9 @@ Shivamani had become a proficient weather wizard as a result of his constant pur
     
 3. <mark>Import Axios: Seamlessly integrate Axios into your projects.</mark>
     
-4. <mark>Try GET Requests: Retrieve data with axios.get() method.</mark>
+4. <mark>Try GET Requests: Retrieve data with </mark> axios.get() <mark> method.</mark>
     
-5. <mark>Experiment with POST: Send data using axios.post() method.</mark>
+5. <mark>Experiment with POST: Send data using </mark> axios.post() <mark> method.</mark>
     
 6. <mark>Set Custom Headers: Enhance requests with custom headers in Axios.</mark>
     
