@@ -4,6 +4,7 @@ seoTitle: "Rules to Learn Code"
 datePublished: Thu Jun 17 2021 06:13:22 GMT+0000 (Coordinated Universal Time)
 cuid: ckq0ic0i705az5ws1hqu8c61i
 slug: 11-rules-to-learn-code
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/-1_RZL8BGBM/upload/6bff6d435798dc6d446bdd87ad736539.jpeg
 
 ---
 
