@@ -1,10 +1,10 @@
 ---
-title: "Building News Catcher: A Dynamic News Aggregator Website"
+title: "Building SNEWS: A Dynamic News Aggregator Website"
 seoTitle: "News Catcher: Building a Dynamic Website"
 seoDescription: "Build an Engaging News Aggregator Website with React, Redux, and Newsdata.io AP"
 datePublished: Thu Jun 01 2023 02:23:24 GMT+0000 (Coordinated Universal Time)
 cuid: clicii71m000008mjhm3mgpkz
-slug: building-news-catcher-a-dynamic-news-aggregator-website
+slug: building-snews-a-dynamic-news-aggregator-website
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/_Zua2hyvTBk/upload/b9e274118ca2e16e44a21a6078ffc9cd.jpeg
 tags: api, reactjs, redux, shivamani
 
