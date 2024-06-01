@@ -292,7 +292,7 @@ const txQuestionEp = "http://localhost:8000"; // Replace with your actual server
 const getUploadUrlForProfilePic = async (file, _id) => {
     const option = {
         method: 'get',
-        url: `${txQuestionEp}/uploadLogo?filename=${encodeURIComponent(file.name)}&filetype=${encodeURIComponent(file.type)}&_id=${_id}`,
+        url: `${txQuestionEp}/profileUpload?filename=${encodeURIComponent(file.name)}&filetype=${encodeURIComponent(file.type)}&_id=${_id}`,
         isPrivate: true,
     }
     const response = await apiProcessor(option)
